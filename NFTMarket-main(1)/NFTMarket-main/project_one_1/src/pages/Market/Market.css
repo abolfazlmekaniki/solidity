@@ -1,0 +1,33 @@
+.Mar_div_1{
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: black;
+    padding: 75px;
+}
+
+
+
+.Card_{
+
+    color: aliceblue;
+    display: flex;
+    border: 1px solid yellow;
+    background: linear-gradient(rgb(250, 2, 163), yellow, rgb(255, 153, 0), black);
+    
+}
+
+
+.img_srt{
+
+    height: 429.01 px !important;
+    /* max-height: 429.01 px !important; */
+
+
+}

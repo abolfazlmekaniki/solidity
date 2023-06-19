@@ -1,0 +1,38 @@
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* use viewport-relative units to cover page fully */
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+/* include border and padding in element width and height */
+* {
+  box-sizing: border-box;
+}
+
+
+.container_{
+
+  background-image: linear-gradient(to right , blue, rgb(249, 90, 10) );
+
+  height: 673px;
+
+}
+
+
+.infooo{
+
+  background-color: inherit;
+  background-image: inherit;
+  border: none;
+  border-bottom: 1px solid inherit;
+  outline: none !important;
+
+
+}
